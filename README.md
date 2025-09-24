@@ -63,6 +63,7 @@ Architecture Overview
 │  - Development Tools (javac, jar, etc.)    │
 │  - Documentation                           │
 └─────────────────────────────────────────────┘
+
 Component Interaction
 
 JVM (Java Virtual Machine): Executes Java bytecode, manages memory
