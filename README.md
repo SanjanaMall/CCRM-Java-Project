@@ -188,8 +188,6 @@ Sample CSV Format
 students.csv:
 <img width="916" height="502" alt="Screenshot 2025-09-24 234205" src="https://github.com/user-attachments/assets/ce900ee8-1216-4b77-9c88-139c3ed90d0a" />
 
-courses.csv:
-
 Platform Summary
 Java SE vs ME vs EE: This CCRM project uses Java SE (Standard Edition), providing the complete Java platform suitable for desktop applications with full access to core libraries, file I/O, networking, and GUI capabilities. Unlike Java ME (limited for mobile/embedded devices) or Java EE (enterprise web applications with application servers), Java SE offers the ideal balance of functionality and simplicity for educational management systems.
 
